@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RevitSchemaToolkit
 {
-    public abstract class SchemaModelBase : ISerializable
+    public  class SchemaModelBase : ISerializable
     {
         public SchemaModelBase() { }
 
